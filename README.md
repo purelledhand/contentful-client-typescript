@@ -19,13 +19,11 @@
 
 
 
-**You can read the Contentful Client API spec at the below link.**
+You can read the Contentful Client API spec at the below link.
+* https://contentful.github.io/contentful.js/contentful/7.14.4/ContentfulClientAPI.html
 
-https://contentful.github.io/contentful.js/contentful/7.14.4/ContentfulClientAPI.html
-
-**It will be helpful when you want to check out the type definitions for Contentful Client API**
-
-https://github.com/contentful/contentful.js/blob/master/index.d.ts
+It will be helpful when you want to check out the type definitions for Contentful Client API
+* https://github.com/contentful/contentful.js/blob/master/index.d.ts
 
 
 
